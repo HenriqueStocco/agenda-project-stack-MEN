@@ -1,0 +1,22 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "OM Theme (Night Owl Italic)",
+  "editor.formatOnSave": true,
+  "prettier.enable": true,
+  "prettier.semi": true,
+  "prettier.useTabs": false,
+  "prettier.useEditorConfig": true,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "eslint.enable": true,
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "emmet.includeLanguages": {
+    "ejs": "html",
+  },
+  "[html]": {
+    "editor.defaultFormatter": "j69.ejs-beautify"
+  },
+}
